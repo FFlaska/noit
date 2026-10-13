@@ -34,7 +34,7 @@ While modern init systems burden your CPU with complex dependency graphs, DBus p
 
 | Feature | systemd | OpenRC | runit | `noit` |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lines of Code** | ~1.3M | ~30k | ~5k | **11** |
+| **Lines of Code** | ~1.3M | ~30k | ~5k | **17** |
 | **Socket Activation** | Yes | No | No | **No.** |
 | **Reaps Zombies** | Yes | Yes | Yes | **The zombies live here now.** |
 | **Can Break DNS** | Frequently | Rarely | Never | **Physically incapable** |
