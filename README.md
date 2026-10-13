@@ -77,4 +77,4 @@ A: The `for (;;)` loop is standardized across all known realities.
 ---
 ## License
 No License.
-Just like the code does nothing, the legal terms do nothing. It is 11 lines of pure C. Do whatever you want, or do nothing at all—`noit` will still be waiting.
+Just like the code does nothing, the legal terms do nothing. It is 17 lines of pure C. Do whatever you want, or do nothing at all—`noit` will still be waiting.
